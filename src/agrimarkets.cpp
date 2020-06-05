@@ -9,14 +9,15 @@ using namespace std;
 using namespace eosio;
 
 ACTION agrimarkets::post( string               date_at,         // date
-                          checksum256          id_hash,          // id
-                          string               source,          // info origing data
-                          string               category,        // about price 
-                          string               market,          // Market city
-                          string               product,         // product
-                          string               price,           // price 
-                          float                price_num,       // numeric price
-                          string               condition) {
+                        checksum256          id_hash,          // id
+                        string               source,          // info origing data
+                        string               category,        // about price 
+                        string               type,          // Market type
+                        string               city,         // market city
+                        string               product,         // product
+                        string               price,           // price 
+                        float                price_num,       // numeric price
+                        string               condition) {
    
    require_auth(get_self());
   
@@ -38,7 +39,8 @@ ACTION agrimarkets::post( string               date_at,         // date
       item.id_hash = id_hash;   
       item.source = source;                 
       item.category = category;   
-      item.market = market;                 
+      item.type = type; 
+      item.city = city;                
       item.product = product;                 
       item.price = price;           
       item.price_num = price_num; 
@@ -51,7 +53,8 @@ ACTION agrimarkets::post( string               date_at,         // date
       item.date_at = date_at;
       item.source = source;                 
       item.category = category;   
-      item.market = market;                 
+      item.type = type; 
+      item.city = city;                
       item.product = product;                 
       item.price = price;           
       item.price_num = price_num;  

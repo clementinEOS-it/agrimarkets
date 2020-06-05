@@ -42,7 +42,11 @@
                     "type": "string"
                 },
                 {
-                    "name": "market",
+                    "name": "type",
+                    "type": "string"
+                },
+                {
+                    "name": "city",
                     "type": "string"
                 },
                 {
@@ -84,7 +88,11 @@
                     "type": "string"
                 },
                 {
-                    "name": "market",
+                    "name": "type",
+                    "type": "string"
+                },
+                {
+                    "name": "city",
                     "type": "string"
                 },
                 {

@@ -14,7 +14,8 @@ CONTRACT agrimarkets : public contract {
                    checksum256          id_hash,          // id
                    string               source,          // info origing data
                    string               category,        // about price 
-                   string               market,          // Market city
+                   string               type,          // Market type
+                   string               city,         // market city
                    string               product,         // product
                    string               price,           // price 
                    float                price_num,       // numeric price
@@ -29,7 +30,8 @@ CONTRACT agrimarkets : public contract {
       checksum256          id_hash;         // id
       string               source;          // info origing data
       string               category;        // about price 
-      string               market;          // Market city
+      string               type;          // Market city
+      string               city;
       string               product;         // product
       string               price;           // price 
       float                price_num;       // numeric price
