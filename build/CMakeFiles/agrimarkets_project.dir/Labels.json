@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/gzileni/SmartContracts/agrimarkets/build/CMakeFiles/agrimarkets_project"
+		},
+		{
+			"file" : "/Users/gzileni/SmartContracts/agrimarkets/build/CMakeFiles/agrimarkets_project.rule"
+		},
+		{
+			"file" : "/Users/gzileni/SmartContracts/agrimarkets/build/CMakeFiles/agrimarkets_project-complete.rule"
+		},
+		{
+			"file" : "/Users/gzileni/SmartContracts/agrimarkets/build/agrimarkets_project-prefix/src/agrimarkets_project-stamp/agrimarkets_project-install.rule"
+		},
+		{
+			"file" : "/Users/gzileni/SmartContracts/agrimarkets/build/agrimarkets_project-prefix/src/agrimarkets_project-stamp/agrimarkets_project-mkdir.rule"
+		},
+		{
+			"file" : "/Users/gzileni/SmartContracts/agrimarkets/build/agrimarkets_project-prefix/src/agrimarkets_project-stamp/agrimarkets_project-download.rule"
+		},
+		{
+			"file" : "/Users/gzileni/SmartContracts/agrimarkets/build/agrimarkets_project-prefix/src/agrimarkets_project-stamp/agrimarkets_project-update.rule"
+		},
+		{
+			"file" : "/Users/gzileni/SmartContracts/agrimarkets/build/agrimarkets_project-prefix/src/agrimarkets_project-stamp/agrimarkets_project-patch.rule"
+		},
+		{
+			"file" : "/Users/gzileni/SmartContracts/agrimarkets/build/agrimarkets_project-prefix/src/agrimarkets_project-stamp/agrimarkets_project-configure.rule"
+		},
+		{
+			"file" : "/Users/gzileni/SmartContracts/agrimarkets/build/agrimarkets_project-prefix/src/agrimarkets_project-stamp/agrimarkets_project-build.rule"
+		},
+		{
+			"file" : "/Users/gzileni/SmartContracts/agrimarkets/build/agrimarkets_project-prefix/src/agrimarkets_project-stamp/agrimarkets_project-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"agrimarkets_project"
+		],
+		"name" : "agrimarkets_project"
+	}
+}

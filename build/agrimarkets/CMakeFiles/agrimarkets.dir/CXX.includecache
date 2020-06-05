@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gzileni/SmartContracts/agrimarkets/include/agrimarkets.hpp
+eosio/eosio.hpp
+-
+eosio/crypto.hpp
+-
+eosio/time.hpp
+-
+eosio/system.hpp
+-
+
+/Users/gzileni/SmartContracts/agrimarkets/src/agrimarkets.cpp
+agrimarkets.hpp
+-
+eosio/eosio.hpp
+-
+eosio/time.hpp
+-
+eosio/system.hpp
+-
+eosio/crypto.hpp
+-
+

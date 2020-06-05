@@ -1,0 +1,3 @@
+/Users/gzileni/SmartContracts/agrimarkets/build/CMakeFiles/rebuild_cache.dir
+/Users/gzileni/SmartContracts/agrimarkets/build/CMakeFiles/edit_cache.dir
+/Users/gzileni/SmartContracts/agrimarkets/build/CMakeFiles/agrimarkets_project.dir

@@ -1,0 +1,14 @@
+# Target labels
+ agrimarkets_project
+# Source files and their labels
+/Users/gzileni/SmartContracts/agrimarkets/build/CMakeFiles/agrimarkets_project
+/Users/gzileni/SmartContracts/agrimarkets/build/CMakeFiles/agrimarkets_project.rule
+/Users/gzileni/SmartContracts/agrimarkets/build/CMakeFiles/agrimarkets_project-complete.rule
+/Users/gzileni/SmartContracts/agrimarkets/build/agrimarkets_project-prefix/src/agrimarkets_project-stamp/agrimarkets_project-install.rule
+/Users/gzileni/SmartContracts/agrimarkets/build/agrimarkets_project-prefix/src/agrimarkets_project-stamp/agrimarkets_project-mkdir.rule
+/Users/gzileni/SmartContracts/agrimarkets/build/agrimarkets_project-prefix/src/agrimarkets_project-stamp/agrimarkets_project-download.rule
+/Users/gzileni/SmartContracts/agrimarkets/build/agrimarkets_project-prefix/src/agrimarkets_project-stamp/agrimarkets_project-update.rule
+/Users/gzileni/SmartContracts/agrimarkets/build/agrimarkets_project-prefix/src/agrimarkets_project-stamp/agrimarkets_project-patch.rule
+/Users/gzileni/SmartContracts/agrimarkets/build/agrimarkets_project-prefix/src/agrimarkets_project-stamp/agrimarkets_project-configure.rule
+/Users/gzileni/SmartContracts/agrimarkets/build/agrimarkets_project-prefix/src/agrimarkets_project-stamp/agrimarkets_project-build.rule
+/Users/gzileni/SmartContracts/agrimarkets/build/agrimarkets_project-prefix/src/agrimarkets_project-stamp/agrimarkets_project-test.rule
